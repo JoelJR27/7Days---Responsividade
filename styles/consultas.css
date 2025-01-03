@@ -54,12 +54,13 @@
 .consulta__hora {
   font-size: 0.75rem;
   font-weight: 500;
-  color: var(--cor-textos);
+  color: var(--cinza-escuro);
   margin: 1em 0 1.5em 0;
 }
 
 .consulta__botoes{
   margin: 1.5em 0;
+  text-align: center;
 }
 
 .botao__laranja,
@@ -91,7 +92,7 @@
 
 .botao__branco {
   border: 1px solid #ececec;
-  color: var(--cor-textos);
+  color: var(--cinza-escuro);
   font-weight: 700;
 }
 
