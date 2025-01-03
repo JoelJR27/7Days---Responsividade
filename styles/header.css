@@ -1,0 +1,24 @@
+.container__cabecalho{
+    display: flex;
+    align-items: center;
+    padding: 2em 1em 1em .5em;
+}
+
+.cabecalho__imagem{
+    width: 57px;
+    border-radius: 50px;
+    margin-right: 1em;
+}
+
+.cabecalho__titulo{
+    font-size: 1.375rem;
+    font-weight: 700;
+    margin-bottom: .3em;
+    color: var(--cor-titulos);
+}
+
+.cabecalho__texto{
+    font-size: 0.875rem;
+    font-weight: 400;
+    color: var(--cor-textos);
+}
